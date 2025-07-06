@@ -112,5 +112,4 @@ test-results/
 # Coverage HTML report
 htmlcov/
 
-uploaded_pdfs/
-vector_store/
+
