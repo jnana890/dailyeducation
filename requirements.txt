@@ -1,0 +1,29 @@
+# FastAPI backend
+fastapi==0.100.0
+uvicorn[standard]==0.23.2
+
+# LangChain core frameworks
+langchain==0.3.26
+langchain-ollama==0.3.3
+
+# Local LLM / Ollama client
+ollama==0.5.1
+
+# Embeddings via HuggingFace
+sentence-transformers==2.2.2
+huggingface-hub==0.16.4
+
+# Vector DB: Weaviate (Python client v4)
+weaviate-client==4.15.4
+
+# PDF ingestion
+unstructured==0.8.1
+
+# Web search (Serper.dev)
+requests==2.31.0
+python-dotenv==1.0.0
+
+langchain-community
+python-multipart
+wikipedia
+python-magic
